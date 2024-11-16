@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Áo thun bé trai siêu nhân",
+    "category": "Áo trẻ em",
+    "price": 120000,
+    "description": "Áo thun hình siêu nhân chất liệu cotton mát mẻ, phù hợp cho mùa hè.",
+    "sizes": ["S", "M", "L"],
+    "ageGroup": "3-5 tuổi",
+    "gender": "Nam",
+    "image": "img/baby2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Áo sơ mi bé gái hoa văn",
+    "category": "Áo trẻ em",
+    "price": 150000,
+    "description": "Áo sơ mi mềm mại với hoa văn nổi bật, phong cách nữ tính.",
+    "sizes": ["S", "M", "L"],
+    "ageGroup": "4-7 tuổi",
+    "gender": "Nữ",
+    "image": "img/baby4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Đồ bộ bé trai cá tính",
+    "category": "Đồ bộ và set đồ",
+    "price": 180000,
+    "description": "Quần jeans bền đẹp với kiểu dáng cá tính, phù hợp cho các bé năng động.",
+    "sizes": ["M", "L", "XL"],
+    "ageGroup": "6-8 tuổi",
+    "gender": "Nam",
+    "image": "img/baby6.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Váy xòe công chúa",
+    "category": "Váy và đầm",
+    "price": 250000,
+    "description": "Váy công chúa xòe rộng, chất liệu nhẹ nhàng, phù hợp cho các bé dự tiệc.",
+    "sizes": ["M", "L", "XL"],
+    "ageGroup": "5-7 tuổi",
+    "gender": "Nữ",
+    "image": "img/baby3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bộ đồ ngủ hình thú",
+    "category": "Đồ bộ và set đồ",
+    "price": 100000,
+    "description": "Bộ đồ ngủ hình thú dễ thương, chất liệu cotton thoáng mát.",
+    "sizes": ["S", "M", "L"],
+    "ageGroup": "3-5 tuổi",
+    "gender": "Unisex",
+    "image": "img/baby8.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Đầm công chúa Elsa",
+    "category": "Váy và đầm",
+    "price": 300000,
+    "description": "Đầm công chúa Elsa lấp lánh, cho các bé yêu thích nhân vật nổi tiếng.",
+    "sizes": ["M", "L", "XL"],
+    "ageGroup": "5-8 tuổi",
+    "gender": "Nữ",
+    "image": "img/baby7.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Đồ bơi bé trai họa tiết cá mập",
+    "category": "Đồ bơi và phụ kiện mùa hè",
+    "price": 120000,
+    "description": "Đồ bơi chất liệu co giãn tốt, họa tiết cá mập nổi bật.",
+    "sizes": ["S", "M", "L"],
+    "ageGroup": "4-6 tuổi",
+    "gender": "Nam",
+    "image": "img/baby5.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Giày thể thao bé gái màu hồng",
+    "category": "Giày dép trẻ em",
+    "price": 200000,
+    "description": "Giày thể thao thoáng khí, nhẹ nhàng, màu hồng dễ thương.",
+    "sizes": ["30", "32", "34"],
+    "ageGroup": "5-7 tuổi",
+    "gender": "Nữ",
+    "image": "img/giay-the-thao-cho-be-gai.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Áo khoác mùa đông lông cừu",
+    "category": "Áo trẻ em",
+    "price": 350000,
+    "description": "Áo khoác giữ ấm với lớp lông cừu, phù hợp cho mùa đông lạnh.",
+    "sizes": ["M", "L", "XL"],
+    "ageGroup": "5-8 tuổi",
+    "gender": "Unisex",
+    "image": "img/baby1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bộ quần áo thể thao",
+    "category": "Đồng phục và trang phục theo dịp",
+    "price": 160000,
+    "description": "Bộ đồ thể thao năng động, thích hợp cho các hoạt động ngoài trời.",
+    "sizes": ["S", "M", "L"],
+    "ageGroup": "6-9 tuổi",
+    "gender": "Unisex",
+    "image": "img/quan-ao-the-thao-tre-emjpg.jpg"
+  }
+]
